@@ -63,6 +63,11 @@ select {
     outline: none;
 }
 
+img {
+    width: 5rem;
+    border-radius: 5px;
+}
+
 table {
     width: 90%;
     border-collapse: collapse;
